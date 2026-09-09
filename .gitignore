@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# 生成的结果文件
+problem1_results.csv
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 日志与临时文件
+*.log
+*.tmp
